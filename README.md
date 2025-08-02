@@ -1,15 +1,45 @@
-# Sample Snack app
-<h1>Property Rental System </h1>.
-Technologies : <h4>ReactNative $ Firebase </h4>
+🚀 Technologies Used
+React Native (Frontend)
 
-Its a full stack Mobile App.
+Firebase
 
-proper firebase Authentication.
+Authentication
 
-In this there are thre users <h6> Renter , propertyLister and Admin </h6>
+Firestore Database
 
-In this property LIster  add  remove and update the property .
+Realtime Updates
 
-And Renter rent the propert.
+👥 User Roles
+There are three types of users in this app:
 
-Use this link for Demo and run "http://localhost:8081/"
+🏘 Property Lister
+
+Add new properties
+
+Update existing property details
+
+Delete properties
+
+🏡 Renter
+
+View available properties
+
+Rent a property
+
+🛠 Admin
+
+Full access to manage both Renters and Property Listers
+
+Monitor property listings
+
+🔐 Features
+Secure Firebase Authentication
+
+Role-based user experience
+
+Real-time Firestore data syncing
+
+CRUD operations for property listings
+
+Simple and intuitive UI
+
